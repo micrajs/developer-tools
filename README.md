@@ -9,16 +9,16 @@
 </p>
 
 <p align="center">
-  <img alt="version" src="https://img.shields.io/npm/v/@micra/developer-tools?color=%23F3626C&logo=npm" />
+  <img alt="version" src="https://img.shields.io/npm/v/@micra/eslint-config?color=%23F3626C&logo=npm" />
   <img alt="issues" src="https://img.shields.io/github/issues-search/micrajs/community?color=%23F3626C&label=Issues&logo=github&query=is%3Aopen%20label%3A%22Project%3A%20developer-tools%22" />
-  <img alt="prs" src="https://img.shields.io/github/issues-pr/micrajs/developer-tools?color=%23F3626C&label=Pull%20requests&logo=github" />
+  <img alt="prs" src="https://img.shields.io/github/issues-pr/micrajs/eslint-config?color=%23F3626C&label=Pull%20requests&logo=github" />
 </p>
 
-<h1 align="center">@micra/developer-tools</h1>
+<h1 align="center">@micra/eslint-config</h1>
 
 ## About
 
-Micra's development tools and configurations.
+Micra's ESLint configurations.
 
 ## Contributors
 
