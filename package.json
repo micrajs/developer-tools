@@ -14,8 +14,8 @@
   },
   "homepage": "https://github.com/micrajs/eslint-config#readme",
   "peerDependencies": {
-    "eslint": ">= 3",
     "@commitlint/cli": ">= 16.2.1",
+    "eslint": ">= 3",
     "typescript": ">= 3.9.5"
   },
   "devDependencies": {
@@ -26,6 +26,7 @@
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.14.0",
     "@typescript-eslint/parser": "^5.14.0",
-    "conventional-changelog-conventionalcommits": "^4.6.3"
+    "conventional-changelog-conventionalcommits": "^4.6.3",
+    "eslint-config-prettier": "^8.5.0"
   }
 }
