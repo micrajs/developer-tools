@@ -15,16 +15,17 @@
   "homepage": "https://github.com/micrajs/eslint-config#readme",
   "peerDependencies": {
     "eslint": ">= 3",
+    "prettier": "^2.6.0",
     "typescript": ">= 3.9.5"
   },
   "devDependencies": {
     "eslint": "^8.11.0",
+    "prettier": "^2.6.0",
     "typescript": "^4.6.2"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.14.0",
     "@typescript-eslint/parser": "^5.14.0",
-    "eslint-config-prettier": "^8.5.0",
-    "prettier": "^2.6.0"
+    "eslint-config-prettier": "^8.5.0"
   }
 }
