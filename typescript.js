@@ -7,7 +7,7 @@ module.exports = {
     sourceType: 'module',
   },
   rules: {
-    'prettier/prettier': 'error',
+    'prettier/prettier': 'warn',
     '@typescript-eslint/no-namespace': 'off',
     '@typescript-eslint/no-unused-vars': [
       'error',
