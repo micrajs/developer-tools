@@ -1,6 +1,6 @@
 {
   "name": "@micra/eslint-config",
-  "version": "0.1.0-next.0",
+  "version": "0.1.0-next.1",
   "description": "Micra's ESLint configurations",
   "scripts": {
     "version:prerelease": "npm version prerelease --preid=next --allow-same-version && git push --follow-tags"
